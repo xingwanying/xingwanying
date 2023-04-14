@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingwanying&show_icons=true&theme=radical&hide=stars)
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=xingwanying&show_icons=true&theme=buefy&hide=stars)
+
